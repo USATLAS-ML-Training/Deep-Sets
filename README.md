@@ -8,4 +8,4 @@ This tutorial uses the same software setup as Fernando's tutorials from yesterda
 
 Open up jupyterhub, and selct the `ATLAS ML training - BDT+NN` kernel (same setup instructions as yesterday).
 
-Open the `Deep-Sets-tutorial.ipynb` + get started with the
+Open the `Deep-Sets-tutorial.ipynb` + get started!
